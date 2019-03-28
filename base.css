@@ -8,7 +8,7 @@ table td img{
   }
 
   .under {
-    z-index: -1;
+    z-index: 0;
     position: relative;
 
 }
@@ -16,5 +16,5 @@ table td img{
 .over {
     z-index: 1;
     position: relative;
-    left: -48px;
+    left: -30px;
 }
